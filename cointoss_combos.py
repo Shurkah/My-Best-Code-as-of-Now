@@ -32,3 +32,4 @@ def tosses(times, list):
 
 print(*tosses(times, coin), sep='\n')
 
+
